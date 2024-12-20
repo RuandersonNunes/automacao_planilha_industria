@@ -9,7 +9,11 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
+<<<<<<< HEAD
 setenv VIRTUAL_ENV /home/mercafacil/Documents/automacao_planilha_industria/.venv
+=======
+setenv VIRTUAL_ENV /home/kali/Documents/automacao_planilha_industria/.venv
+>>>>>>> 488c5ca6358bdf18199a0a9fe8435297ca53ec6b
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/"bin":$PATH"

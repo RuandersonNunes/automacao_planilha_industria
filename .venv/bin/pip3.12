@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!/home/mercafacil/Documents/automacao_planilha_industria/.venv/bin/python3
+=======
+#!/home/kali/Documents/automacao_planilha_industria/.venv/bin/python3
+>>>>>>> 488c5ca6358bdf18199a0a9fe8435297ca53ec6b
 # -*- coding: utf-8 -*-
 import re
 import sys
